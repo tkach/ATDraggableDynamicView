@@ -3,4 +3,4 @@ Draggable view for creating notification popups that is easy and funny to throw 
 Demo
 ----
 
-(https://github.com/tkach/ATDraggableDynamicView/blob/master/demo.gif)
+# ![Screenshot](https://github.com/tkach/ATDraggableDynamicView/blob/master/demo.gif)
