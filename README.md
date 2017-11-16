@@ -1,4 +1,4 @@
-Draggable view for creating notification popups that is easy and funny to throw out :)
+Draggable view for creating notification views that use UIKit dynamics for user interaction
 
 Demo
 ----
